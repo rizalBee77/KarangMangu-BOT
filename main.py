@@ -72,8 +72,6 @@ async def main():
     print(
         f"""
     {magenta}𝙆𝘼𝙍𝘼𝙉𝙂𝙈𝘼𝙉𝙂𝙐 {green}𝙋𝙍𝙊𝙅𝙀𝘾𝙏
-    {magenta}Bekerjalah Untuk Duniamu {green}Seakan-Akan Engkau Mati Esok
-    
     {green}Creator.by {white}0xRizal
           """
     )
