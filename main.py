@@ -71,9 +71,9 @@ async def main():
     os.system("cls" if os.name == "nt" else "clear")
     print(
         f"""
-    {magenta}╔═╗╔╦╗╔═╗  {green}╔═╗┬─┐┌─┐ ┬┌─┐┌─┐┌┬┐
-    {magenta}╚═╗ ║║╚═╗  {green}╠═╝├┬┘│ │ │├┤ │   │ 
-    {magenta}╚═╝═╩╝╚═╝  {green}╩  ┴└─└─┘└┘└─┘└─┘ ┴ 
+    {magenta}BEKERJALAH UNTUK DUNIAMU      {green}SEAKAN-AKAN ENGKAU HIDUP SELAMANYA 
+    {magenta}BERIBADAHLAH UNTUK AKHIRATMU  {green}SEAKAN-AKAN ENGKAU MATI MATI EESOK 
+    {magenta}Creator.by  {green}0xRizal
     
     {green}KARANGMANGU {white}PROJECT
           """
