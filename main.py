@@ -71,11 +71,10 @@ async def main():
     os.system("cls" if os.name == "nt" else "clear")
     print(
         f"""
-    {magenta}BEKERJALAH UNTUK DUNIAMU      {green}SEAKAN-AKAN ENGKAU HIDUP SELAMANYA 
-    {magenta}BERIBADAHLAH UNTUK AKHIRATMU  {green}SEAKAN-AKAN ENGKAU MATI MATI EESOK 
-    {magenta}Creator.by  {green}0xRizal
+    {magenta}𝙆𝘼𝙍𝘼𝙉𝙂𝙈𝘼𝙉𝙂𝙐 {green}𝙋𝙍𝙊𝙅𝙀𝘾𝙏
+    {magenta}Bekerjalah Untuk Duniamu {green}Seakan-Akan Engkau Mati Esok
     
-    {green}KARANGMANGU {white}PROJECT
+    {green}Creator.by {white}0xRizal
           """
     )
     if not os.path.exists("userid.txt"):
